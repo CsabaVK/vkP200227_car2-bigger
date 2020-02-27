@@ -1,0 +1,5 @@
+{
+  "userName":"root",
+  "password":"",
+  "url":"mysql:host=localhost;dbname=cars2;charset=utf8"
+}
